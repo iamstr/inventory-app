@@ -1,0 +1,33 @@
+{
+
+"stock.alert":1000,
+
+"shop.roles":[
+  {
+      "role":"employee"
+
+  },
+
+  {
+
+    "role":"employer"
+  }
+
+],
+
+"app.maxMixture":15,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
